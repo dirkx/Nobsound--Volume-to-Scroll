@@ -1,8 +1,10 @@
 //
 //  main.m
-//  xxx
+//  Nobsound -Volume-to-Scroll
 //
-//  Created by Dirk-Willem van Gulik on 03/06/2021.
+//  (c) 2021, Dirk-Willem van Gulik
+//
+// Under the Apache 2.0 license.
 //
 
 #import <Foundation/Foundation.h>
